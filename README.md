@@ -25,7 +25,7 @@ O jogo escolhe uma palavra aleatória, e o jogador precisa adivinhar as letras. 
 
 ### Estrutura de Arquivos
 
-- `jogo da forca.c`: Arquivo principal com a lógica do jogo.
+- `jogo.da.forca.c`: Arquivo principal com a lógica do jogo.
 - `forca.h`: Arquivo de cabeçalho contendo declarações de funções e variáveis globais.
 - `texto.txt`: Arquivo que armazena as palavras que serão sorteadas durante o jogo.
 
@@ -43,7 +43,7 @@ Durante o desenvolvimento deste projeto, aprendi sobre:
 - Estruturas de repetição (loops `for`, `while`).
 - Utilização de arrays para armazenar e comparar palavras.
 - Leitura de arquivos de texto externos e tratamento de erros.
-- Suporte a caracteres especiais, como acentuação e cedilha.
+- Suporte a caracteres especiais, como acentuação.
 
 ### Lições Aprendidas
 
