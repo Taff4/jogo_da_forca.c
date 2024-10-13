@@ -61,6 +61,5 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou
 
 Desenvolvido por Rafael Lacerda.
 
-- [LinkedIn](#)
-- [GitHub](#)
-
+-[LinkedIn](https://www.linkedin.com/in/rafael-lacerd)
+- [GitHub](https://github.com/Taff4)
